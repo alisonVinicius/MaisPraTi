@@ -19,5 +19,30 @@ Após a configuração do git, execute o seguinte comando:
 git clone https://github.com/alisonVinicius/MaisPraTi.git
 ```
 
+# Lista 01
+1. Para acessar a pasta com os exercícios da lista 01, utilize o seguinte comando
+```
+cd lista01
+```
+
+
+
+2. Antes de executar os programas, instale a biblioteca `prompt-sync`, com o seguinte comando
+```
+npm install prompt-sync
+```
+
+
+3. Para executar os exercícios, utilize 
+```
+node <programa>.js
+```
+
+Exemplo:
+```
+node ex01.js
+```
+
+
 
 
