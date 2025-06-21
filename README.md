@@ -19,10 +19,15 @@ Após a configuração do git, execute o seguinte comando:
 git clone https://github.com/alisonVinicius/MaisPraTi.git
 ```
 
-# Lista 01
-1. Para acessar a pasta com os exercícios da lista 01, utilize o seguinte comando
+# Listas
+1. Para acessar a pasta com os exercícios da lista desejada, utilize o seguinte comando
 ```
-cd lista01
+cd lista<número lista desejada>
+```
+
+Exemplo: lista 02
+```
+cd lista02
 ```
 
 
